@@ -4,12 +4,6 @@ A classic **Tic Tac Toe game** built using **pure HTML, CSS, and JavaScript**. T
 
 ---
 
-## 🌐 Live Demo
-
-> 🎮 [Play Online](#) *(Add your deployment link here if hosted on GitHub Pages or Netlify)*
-
----
-
 ## 🧩 Features
 
 - 🔁 Two-player local gameplay
